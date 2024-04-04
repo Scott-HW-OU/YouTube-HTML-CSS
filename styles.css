@@ -1,0 +1,32 @@
+.header {
+    text-align: center;
+    background-color: #830AAF;
+    color: rgb(255,255,255);
+}
+
+.top {
+    color: blue;
+    background-color: wheat;
+}
+
+.bottom {
+    color: whitesmoke;
+    background-color: #2D7B0C;
+
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
